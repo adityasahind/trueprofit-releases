@@ -120,11 +120,12 @@ The app starts empty — your numbers only. Curious first? Tap **"See an example
 
 <p align="center">
   <img src="assets/screenshots_dark/dashboard-dark.png" alt="TrueProfit dashboard in the Gradient Hero dark theme" width="180">
+  <img src="assets/screenshots_dark/expenses-dark.png" alt="Expenses in the dark theme — every cost tracked" width="180">
   <img src="assets/screenshots_dark/assistant-dark.png" alt="Offline AI Assistant in the Gradient Hero dark theme" width="180">
   <img src="assets/screenshots_dark/settings-dark.png" alt="Settings in the Gradient Hero dark theme" width="180">
 </p>
 
-<p align="center"><i>Dashboard · Assistant · Settings — in the Gradient Hero dark theme</i></p>
+<p align="center"><i>Dashboard · Expenses · Assistant · Settings — in the Gradient Hero dark theme</i></p>
 
 ## FAQ
 
