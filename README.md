@@ -100,6 +100,18 @@ The app starts empty — your numbers only. Curious first? Tap **"See an example
 
 **Also included:** earnings goals with a live progress ring, automatic Google Drive backup, a home-screen widget with today's TRUE profit, service reminders per vehicle, receipt photos, CSV import, and a fully offline Assistant that answers questions about your own numbers — in 21 languages.
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/dashboard.png" alt="TrueProfit dashboard — your TRUE profit in one number" width="180">
+  <img src="assets/screenshots/log-trip.png" alt="Log a trip in 10 seconds — platform, miles, pay" width="180">
+  <img src="assets/screenshots/reports.png" alt="Free PDF and CSV tax reports" width="180">
+  <img src="assets/screenshots/assistant.png" alt="Offline AI Assistant — answers questions about your own numbers" width="180">
+  <img src="assets/screenshots/settings.png" alt="Settings — language, currency and privacy" width="180">
+</p>
+
+<p align="center"><i>Dashboard · Log Trip · Reports · Assistant · Settings</i></p>
+
 ## FAQ
 
 **Is TrueProfit really free?**
