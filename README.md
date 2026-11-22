@@ -67,10 +67,14 @@ SHA-256 of the v2.1.3 APK: `25b07d8bf2782554ecfb85312ed0117160e6d21ef3bb1e944122
 - **NO ACCOUNT, NO LINKING, TOTAL PRIVACY** — no sign-up, no connecting your DoorDash or Uber account, no server. Everything stays on your phone. Your data is yours.
 - **NO BATTERY DRAIN, NO LOST MILES** — TrueProfit never tracks you in the background, so it never eats your battery and never "forgets" a trip the way GPS auto-tracking does. You log it, it's saved. Forever.
 - **FREE TAX REPORT** — your year-to-date deductible miles × the standard mileage rate for your country (such as the IRS rate in the US), always up to date. Export a clean, professional PDF or CSV for your tax preparer — free. Rivals charge a subscription for this.
+- **AI ASSISTANT, 100% OFFLINE** — ask questions about your own numbers by chat or voice ("How much did I really make this week?") and get instant answers. The AI runs entirely on your phone — no internet needed, nothing leaves your device.
+- **GOOGLE DRIVE BACKUP & RESTORE** — back up everything to your own Google Drive; switch phones and your complete data comes back with one restore.
 
 ## Made for gig drivers everywhere
 
-DoorDash • Uber Eats • Instacart • Walmart Spark • Amazon Flex • and more — wherever you drive, in your country, your currency and your language.
+DoorDash • Uber Eats • Instacart • Walmart Spark • Amazon Flex • and more
+
+Any driver, anywhere in the world, who earns by the mile: delivery, courier and taxi drivers included.
 
 ## Your week in review
 
@@ -83,7 +87,7 @@ Every week, your dashboard tells the story: *"This week your TRUE profit was $21
 3. Watch your TRUE profit, profit/hour and profit/mile update instantly.
 4. At tax time, export the report and hand it to your preparer.
 
-The standard mileage rate for your country is built in as a dated schedule: when the official rate changes part-way through a year, every mile is counted at the rate of its own day — and you can edit the rate in Settings any time.
+The standard mileage rate is built in as a dated schedule: when the official rate changes part-way through a year, every mile is counted at the rate of its own day — and you can edit the rate in Settings any time.
 
 The app starts empty — your numbers only. Curious first? Tap **"See an example"** on an empty screen to explore with clearly-marked sample data, then **Start Fresh** to make it yours.
 
@@ -93,7 +97,7 @@ The app starts empty — your numbers only. Curious first? Tap **"See an example
 |---|---|
 | **Dashboard** | "Your TRUE profit. One number." — earnings − expenses − mileage cost, instantly. Plus your week in review: beat last week, your best day, your streak. |
 | **Log Trip** | Log a trip in 10 seconds — platform, miles, pay. Done. |
-| **Tax view** | Your estimated tax deduction, adding up — every mile banked at your country's standard mileage rate, automatically. |
+| **Tax view** | Your estimated IRS deduction, adding up — every mile banked at the IRS rate, automatically. |
 | **Reports** | A tax report preparers love — professional PDF/CSV export, free, no paywall. |
 | **Expenses** | Every cost counted — fuel, food, phone, maintenance. Nothing missed. |
 | **Settings** | No account. No tracking. Everything stays on your phone. |
@@ -101,6 +105,8 @@ The app starts empty — your numbers only. Curious first? Tap **"See an example
 **Also included:** earnings goals with a live progress ring, automatic Google Drive backup, a home-screen widget with today's TRUE profit, service reminders per vehicle, receipt photos, CSV import, and a fully offline Assistant that answers questions about your own numbers — in 21 languages.
 
 ## Screenshots
+
+<p align="center"><small><b>Light theme</b></small></p>
 
 <p align="center">
   <img src="assets/screenshots/dashboard.png" alt="TrueProfit dashboard — your TRUE profit in one number" width="180">
@@ -111,6 +117,16 @@ The app starts empty — your numbers only. Curious first? Tap **"See an example
 </p>
 
 <p align="center"><i>Dashboard · Log Trip · Reports · Assistant · Settings</i></p>
+
+<p align="center"><small><b>Dark theme</b></small></p>
+
+<p align="center">
+  <img src="assets/screenshots_dark/dashboard-dark.png" alt="TrueProfit dashboard in the Gradient Hero dark theme" width="180">
+  <img src="assets/screenshots_dark/assistant-dark.png" alt="Offline AI Assistant in the Gradient Hero dark theme" width="180">
+  <img src="assets/screenshots_dark/settings-dark.png" alt="Settings in the Gradient Hero dark theme" width="180">
+</p>
+
+<p align="center"><i>Dashboard · Assistant · Settings — in the Gradient Hero dark theme</i></p>
 
 ## FAQ
 
@@ -124,7 +140,7 @@ No. There is no sign-up and no server — your trips, expenses and reports stay 
 Yes. TrueProfit works fully offline, and it never tracks you in the background, so it doesn't drain your battery or lose miles the way GPS auto-trackers can.
 
 **Which drivers is TrueProfit made for?**
-Any driver, anywhere in the world, who earns by the mile: DoorDash, Uber and Uber Eats, Lyft, Instacart, Walmart Spark, Amazon Flex, courier, delivery and taxi drivers.
+Any driver who earns by the mile: DoorDash, Uber and Uber Eats, Lyft, Instacart, Walmart Spark, Amazon Flex, courier, delivery and taxi drivers.
 
 **How is TrueProfit different from other mileage trackers?**
 Other trackers show your earnings. TrueProfit subtracts your expenses and the real per-mile cost of running your vehicle, so the number you see is your TRUE profit — what you actually kept.
