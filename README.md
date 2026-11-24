@@ -10,7 +10,14 @@
   <img src="https://img.shields.io/badge/works-offline-brightgreen" alt="Works offline">
 </p>
 
+
+▶ Watch TrueProfit in action (30 seconds)
+
+https://github.com/user-attachments/assets/d30fbd8b-3845-4c5d-af2f-01fe7162f7f2
+
+
 # Mileage Tracker: True Profit
+
 
 **100% free mileage & TRUE profit tracker for gig drivers. No subscription.**
 
